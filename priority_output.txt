@@ -1,0 +1,16 @@
+                 Program For Priority Scheduling.
+ Number Of process:5
+p1 4 4
+p2 2 5
+p3 2 6
+p4 1 3
+p5 5 7
+
+Pid     BT   prt   TAT     WT
+p5      5    7     5       0
+p3      2    6     7       5
+p2      2    5     9       7
+p1      4    4     13      9
+p5      1    3     14      13
+Average Tat:9.6
+Average Wt:6.8

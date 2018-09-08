@@ -1,0 +1,16 @@
+                 Program For Shortest Job First Scheduling.
+ Number Of process:5
+p1 4
+p2 2
+p3 2
+p4 1
+p5 5
+
+Pid     BT      TAT     WT
+p4      1       1       0
+p2      2       3       1
+p3      2       5       3
+p1      4       9       5
+p5      5       14      9
+Average Tat:6
+Average Wt:3
