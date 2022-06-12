@@ -1,8 +1,7 @@
 # Operating-System
-## Name : Sameer Panat
-## Enroll : 0827CS161196
-## College: AITR Indore
-## This repository contains all my Operating System Lab assignments that I have completed during my 5th semester of BE.
+# Name : Sameer Panat
+# College: AITR Indore
+# This repository contains all my Operating System Lab assignments that I have completed during my 5th semester of BE.
 # FCFS (Without Arrival time)
 # FCFS (With Arrival time)
 # SJF (Without Arrival time)
