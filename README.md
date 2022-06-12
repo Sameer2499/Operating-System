@@ -1,6 +1,4 @@
-# Operating-System
-# College: AITR Indore
-# This repository contains all my Operating System Lab assignments that I have completed during my 5th semester of BE.
+* This repository contains all my Operating System Lab assignments that I have completed during my 5th semester of BE.
 
   * FCFS (Without Arrival time)  
   * FCFS (With Arrival time)  
